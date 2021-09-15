@@ -2,12 +2,16 @@
 
  ### Olá, sou a Talita Aguiar 👩🏽‍🦱
 
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=TALITAAGUIAR&color=e5e5e5&style=for-the-badge&logo=GitHub">
+
+<br/>
+<br/>
 
 <p>
 
 🧑🏽‍💻  Estudante de programação e desenvolvimento Front-End<br/>
-🧑🏽‍🎓 Formada em Contabilidade
+🧑🏽‍🎓  Formada em Contabilidade
 
 </p>
 <hr>
