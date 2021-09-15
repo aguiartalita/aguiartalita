@@ -1,8 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=aguiartalita&show_icons=true&title_color=9ca3e1&text_color=060606&icon_color=5d6492&bg_color=e5e5e5&cache_seconds=2300">
 
  ### Olá, sou a Talita Aguiar 👩🏽‍🦱
- 
- <br/>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=TALITAAGUIAR&color=e5e5e5&style=for-the-badge&logo=GitHub">
 
